@@ -9,6 +9,7 @@
     border: none;
     background-color: #4d5156;
     margin-bottom: 20px;
+    color: white;
 }
 
 .bar:hover{
@@ -56,4 +57,22 @@ body {
 
 .navBar a:hover {
     text-decoration: underline;
+}
+
+label {
+    color: white;
+    display: block;
+    margin: 15px 0 5px;
+}
+.input{
+    width: 800px;
+    padding: 10px;
+    border: 1px solid #4d5156;
+    background-color: #4d5156;
+    border-radius: 4px;
+    color: white;
+}
+
+.input:hover{
+    background-color: #62666c;
 }
